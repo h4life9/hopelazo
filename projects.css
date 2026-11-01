@@ -36,18 +36,6 @@ header nav ul li {
 }
 
 
-.resumeContainer {
-  max-width: 800px;
-  margin: auto;
-  padding: 20px;
-}
-
-.resume-img {
-  width: 100px;
-  height: auto;
-  display: block;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
-}
 
 /* Test Code */
 
